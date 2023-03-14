@@ -1,2 +1,3 @@
 #!/bin/bash
-global BEST = "School"
+BEST=School
+BEST=School
